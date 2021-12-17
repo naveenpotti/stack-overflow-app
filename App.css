@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.table-clickable-row:hover{
+  cursor: pointer;;
+}
+.no-result-text{
+  text-align: center;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.label {
+  font-size: 14px;
+  color: gray;
+  text-align: left;
+}
